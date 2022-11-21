@@ -1,14 +1,36 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    min-width: 81px
+    top: 32%
+    right: 90%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
+    min-width: 87px
     top: 51%
-    right: 30%
+    right: 80%
+  &-3
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 80%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 20%
+  &-5
+    animation: float2 3s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 10%
+  &-6
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 71%
+    right: 50%
 
 
 @keyframes float1
@@ -17,3 +39,75 @@
 
   100%
     transform: translateY(0px)
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-principal
+  .tarjeta
+  .banner-principal__row
+    .banner-principal__info
+      .banner-principal__componente
+        h1
+          color: black
+      .banner-principal__descripcion
+        p
+          color: black
+    .banner-principal__img
+      max-width: 445px
+.curso-main-container
+  .tarjeta--blanca
+    position: relative
+    overflow: hidden
+    &::after
+      content: url("../assets/curso/temas/bg-top.png")
+      position: absolute
+      top: 7.2rem
+      left: 0
+      @media (max-width: 768px)
+        top: 5.7rem
+.bg-left-to-right
+  margin-left: -3rem
+  margin-right: -3rem
+  padding-right: 3rem
+  padding-left: 3rem
+  min-width: calc( 100% + 6rem )
+.slyder-f
+  justify-content: center
+  .horizontal-scroll
+    display: flex !important
+    align-items: stretch !important
+    height: 100%
+    .slyder-f__slyde
+      display: flex
+      align-items: stretc
+  .slyder-f__btn
+    max-width: 50px
+    max-height: 50px
+    min-height: 50px
+    min-width: 50px
+    width: 50px
+    height: 50px
+    margin-top: auto
+    margin-bottom: auto
+    background-color: #FD7F23
+    border-radius: 50%
+    text-align: center
+    margin-right: 1rem
+    margin-left: 1rem
+    padding-left: 0 !important
+    padding-right: 0 !important
+    color: #707BA3
+    i
+      font-size: 20px
+      color: black
+    @media (max-width: 768px)
+      margin-right: 0
+      margin-left: 0
+  &-edit
+    .slyder-f__btn
+      background-color: #535353
+      color: #F88F05
