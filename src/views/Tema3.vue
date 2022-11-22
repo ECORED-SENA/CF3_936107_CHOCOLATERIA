@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Equipos
 
     p.mb-5 Para el procesamiento de cacao se hace necesario el uso de diferentes equipos y herramientas que facilitan la transformación de las materias primas para obtener el producto final esperado. 
 
@@ -28,7 +28,7 @@
       img(src="@/assets/curso/temas/tema1/dec-titulo.svg" style="max-width: 45px")
       h4.ps-2.mt-2.mb-0(style="color: #7D5F54") Maquinaria Industrial
     
-    .bg-left-to-right
+    .bg-left-to-right.pb-5(style="background: linear-gradient(180deg, rgba(255,255,255,1) 11%, rgba(246,246,246,1) 11%, rgba(246,246,246,1) 35%, rgba(252,192,45,1) 35%, rgba(252,192,45,1) 67%, rgba(255,255,255,1) 67%);")
       .d-flex.flex-wrap.align-items-start.mb-5
         .col-xl-7.order-2.order-xl-1.pe-xl-4
           p La primera máquina que debemos mencionar es la Tostadora la cual termina el secado natural del cacao para que no se produzcan posibles afectaciones a la materia prima, este proceso se realiza con la producción de fuego (no importa la fuente gas, energía, leña, carbón, etc.) el cual calienta el recipiente donde se encuentra el cacao y lo calienta hasta que toste.
@@ -74,6 +74,49 @@
               a.boton.color-acento-botones.px-5(:href="'https://www.youtube.com/watch?v=gJbesu6kgD8'" target="_blank")
                 span.fw-bold Ver video
             img.d-none.d-lg-flex(src="@/assets/curso/temas/tema3/img-5.png" style="max-width: 202px; position: absolute; bottom: -3rem; right: 0")
+
+    .d-flex.align-items-center.mb-5
+      img(src="@/assets/curso/temas/tema1/dec-titulo.svg" style="max-width: 45px")
+      h4.ps-2.mt-2.mb-0(style="color: #7D5F54") Función, limpieza, calibración, fallas, operación, intervención, manuales
+    
+    .d-flex.flex-wrap.align-items-end.mb-3
+      img.mx-auto.col-xl-5.mb-4.mb-xl-0(src="@/assets/curso/temas/tema3/img-6.png" style="max-width: 505px")
+      p.col-xl-7.ps-xl-4 Entre las actividades que se programan para la producción, se deben incluir las actividades de limpieza, mantenimiento, control preventivo, reparación y demás que sean necesarias para el cuidado de la maquinaria empleada en cada proceso, ya que esta al ser de componentes metálicos (en la mayoría de los casos) se desgastan y al no ser cambiadas o reparadas a tiempo pueden ocasionar un daño grave hasta total de la máquina, aumentando gastos por reparación o cambio definitivo.
+    
+    .d-flex.flex-wrap.align-items-center.mb-5
+      .bg-edit-t3.col-xl-7.order-2.order-xl-1
+        p.mb-0 Es importante que, al momento de realizar las compras de maquinaria y equipos necesarios para la empresa, estos se compren en establecimientos legales y que cuenten con garantía, de esta manera se asegura que la inversión se realiza con materiales de buena calidad y a la cual se puede acudir en caso de alguna falla o daño ajeno a la manipulación de esta. 
+          br
+          br
+          |Posterior a cada jornada de trabajo es importante que el operador realice la limpieza de la máquina que operó o si existe una brigada de limpieza para dicha actividad, ya que los residuos que quedan en los compartimientos de la máquina pueden afectar las propiedades organolépticas de las futuras producciones, disminuyendo la calidad de los productos. Para la limpieza se deben tener en cuenta las recomendaciones del fabricante en los manuales de operación. 
+        img(src="@/assets/curso/temas/tema3/img-bg-edit-t3.png" class="img-1" style="max-width: 45px")
+        img(src="@/assets/curso/temas/tema3/img-bg-edit-t3.png" class="img-2" style="max-width: 45px")
+      img.mx-auto.col-xl-5.mb-4.mb-xl-0.order-1.order-xl-2(src="@/assets/curso/temas/tema3/img-7.png" style="max-width: 505px")
+    
+    .d-flex.flex-wrap.align-items-start.mb-5.position-relative
+      img.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 85px")
+      p.col-md.ps-md-4 Es importante que, al momento de realizar las compras de maquinaria y equipos necesarios para la empresa, estos se compren en establecimientos legales y que cuenten con garantía, de esta manera se asegura que la inversión se realiza con materiales de buena calidad y a la cual se puede acudir en caso de alguna falla o daño ajeno a la manipulación de esta.
+    
+    p.mb-5 Posterior a cada jornada de trabajo es importante que el operador realice la limpieza de la máquina que operó o si existe una brigada de limpieza para dicha actividad, ya que los residuos que quedan en los compartimientos de la máquina pueden afectar las propiedades organolépticas de las futuras producciones, disminuyendo la calidad de los productos. Para la limpieza se deben tener en cuenta las recomendaciones del fabricante en los manuales de operación. 
+
+    .bg-left-to-right(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/bg-last-div.svg')})`}"
+      style="background-repeat: no-repeat; background-position-y: 95%; margin-bottom: -4rem; padding-bottom: 4rem;"
+    )
+      .d-flex.flex-wrap.align-items-center.position-relative.mb-4(style="overflow: hidden")
+        img.position-relative.mx-auto.ms-xl-0.col-xl-5.mb-4.mb-xl-0(src="@/assets/curso/temas/tema3/img-8.png" style="max-width: 471px; z-index: 2")
+        p.col-xl-7.p-4.bg-text-100 Los equipos #[b(style="background-color: #FED2B2; padding-top: .2rem") deben estar calibrados en cada momento de operación,] para esto el operador o jefe de máquinas deberá realizar revisiones periódicas al funcionamiento de esta para garantizar su eficiencia y así disminuir las pérdidas o posibles daños en los equipos. 
+      .d-flex.flex-wrap.align-items-end.mb-3
+        img.mx-auto.col-xl-5.mb-4.mb-xl-0(src="@/assets/curso/temas/tema3/img-9.png" style="max-width: 505px")
+        p.col-xl-7.ps-xl-4 Las recomendaciones del fabricante deben ser tenidas en cuenta para alargar la vida útil de la maquinaria, así como el correcto funcionamiento. 
+          br
+          br
+          |El propósito que persigue un manual de operaciones es introducir a cualquier persona interesada en conocer cómo se desempeña una máquina en particular, así como los elementos que la componen como: su contexto, la estructura, los puestos, los procesos y procedimientos, las actividades, las políticas y reglas establecidas, entre otra información relevante relacionada a su operación.
+          br
+          br
+          |También contempla aquellas condiciones alternas o excepcionales que ocurren, a la ejecución normalmente esperada de la secuencia de actividades para conseguir un objetivo o resultado.
+      
+      p Usualmente las empresas tienen sus manuales de operaciones en documentos físicos o impresos, pero también hay aquellas que los implementan de forma digital en herramientas o plataformas de software en línea para facilitar su disponibilidad y acceso.
 </template>
 
 <script>
@@ -158,4 +201,34 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bg-edit-t3
+  position: relative
+  margin-left: -3rem
+  padding: 2rem
+  padding-left: 3rem
+  background-color: #FEE9B5
+  .img-1
+    position: absolute
+    top: -15px
+    left: 1rem
+  .img-2
+    position: absolute
+    top: 41%
+    right: -10px
+  @media (max-width: 1200px)
+    margin-left: 0
+    padding-left: 2rem
+.bg-text-100
+  position: relative
+  z-index: 1
+  &::after
+    content: ''
+    position: absolute
+    z-index: -1
+    left: -72%
+    top: 0
+    background-color: #FFECDE
+    width: 172%
+    height: 100%
+</style>

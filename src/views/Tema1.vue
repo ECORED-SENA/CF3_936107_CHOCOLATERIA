@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Marco normativo
     
     .d-flex.flex-wrap.align-items-center.mb-5
       .col-xl-7.pe-xl-4.order-2.order-xl-1
