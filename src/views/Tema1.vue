@@ -202,23 +202,6 @@ export default {
 </script>
 
 <style lang="sass">
-.acordeon-edit
-  position: relative
-  z-index: 2
-  .tarjeta--azul
-    padding-top: .6rem !important
-    background-color: #E1DDDB
-    .acordion__header
-      margin-bottom: .6rem !important
-      .acordion__accion
-        .acordion__accion__btn--b
-          background-color: #FD7F23
-          border-color: #FD7F23
-  .acordion__activo
-    background-image: url('../assets/curso/temas/tema1/bg-pestanas.png')
-    background-repeat: no-repeat
-    background-size: 100%
-    background-position: bottom
 .tarjeta-edit
   background-color: #FEE9B5
   &:hover

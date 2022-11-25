@@ -48,6 +48,8 @@
 
 .banner-principal
   .tarjeta
+    @media (max-width: 768px)
+      background-image: url('../assets/curso/portada/fondo-banner-principal-movil.png') !important
   .banner-principal__row
     .banner-principal__info
       .banner-principal__componente
@@ -56,8 +58,12 @@
       .banner-principal__descripcion
         p
           color: black
+      @media (max-width: 768px)
+        padding: 4rem 2rem !important
     .banner-principal__img
       max-width: 445px
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/bg-header.png') !important
 .curso-main-container
   .tarjeta--blanca
     position: relative
@@ -113,3 +119,25 @@
       color: #F88F05
 .accesibilidad
   z-index: 10
+.slyder-a
+  .slyder-a__tipo-b
+    .slyder-a__btn--atrs, .slyder-a__btn--sigt
+      background-color: #FD7F23
+      color: #111E61
+.acordeon-edit
+  position: relative
+  z-index: 2
+  .tarjeta--azul
+    padding-top: .6rem !important
+    background-color: #E1DDDB
+    .acordion__header
+      margin-bottom: .6rem !important
+      .acordion__accion
+        .acordion__accion__btn--b
+          background-color: #FD7F23
+          border-color: #FD7F23
+  .acordion__activo
+    background-image: url('../assets/curso/temas/tema1/bg-pestanas.png')
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: bottom

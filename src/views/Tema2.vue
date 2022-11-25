@@ -292,9 +292,4 @@ export default {
     p
       background-color: #FD7F23
       color: #3A1C12
-.slyder-a
-  .slyder-a__tipo-b
-    .slyder-a__btn--atrs, .slyder-a__btn--sigt
-      background-color: #FD7F23
-      color: #111E61
 </style>
