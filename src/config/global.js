@@ -249,7 +249,7 @@ export default {
     },
     {
       referencia:
-        'Bayona, E. (2021). <em>Desarrollo de la Medición en el Ámbito del Cultivo del Cacao.</em> Universidad Santo Tomas. Ocaña – Norte de Santander.',
+        'Bayona, E. (2021). <em>Desarrollo de la Medición en el Ámbito del Cultivo del Cacao.</em> Universidad Santo Tomas. Ocaña - Norte de Santander.',
       link:
         'https://repository.usta.edu.co/bitstream/handle/11634/33509/2021ErmidesBayonaSalazar.pdf?sequence=2&isAllowed=y',
     },
@@ -310,6 +310,12 @@ export default {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
         cargo: 'Corrector de Estilo',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Yenny Ulloa',
+        cargo: 'Validación de contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [

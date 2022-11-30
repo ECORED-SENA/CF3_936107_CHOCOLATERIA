@@ -76,7 +76,9 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.fw-bold Para ampliar la información sobre los requisitos de composición que debe tener cada tipo de chocolate descargar el documento:
+                  p.fw-bold Para profundizar la información aquí tratada le invitamos a leer:
+                    br
+                    |Mejía, Castro, Carvajal et al., (2017) #[em Agroindustria del Cacao.] Sistema de Investigación, Desarrollo Tecnológico e Innovación. SENA.
                 .col-sm-auto
                   a.boton.color-acento-botones.fw-bold(:href="'https://repositorio-sena-edu-co.bdigital.sena.edu.co/bitstream/handle/11404/5241/agroindustria_cacao.pdf?sequence=1&isAllowed=y'" target="_blank")
                     span.pe-4 Enlace web

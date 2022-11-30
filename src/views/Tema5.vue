@@ -115,10 +115,13 @@
         .row.col-xl-11.mx-auto.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
             h4 Granos defectuosos y/o dañados
-            p La uniformidad de la muestra debe ser una constante, si no se presenta es debido a que en la selección y clasificación se cometieron inconsistencias. Los granos planos son señal de que el secado no fue el adecuado y puede presentar variaciones de amargura o acidez
+            p Los granos considerados defectuosos son aquellos que presentan formas planas, pequeñas, quebrados, gemelos, germinados, pasa y basura.
               br
               br
-              |El color debe ser uniforme parecido a la tierra colorada, las presencias de colores oscuros son indicador de que el beneficio no fue el adecuado. El grano debe romperse al apretarse, si esto no ocurre es indicador que el grano tiene humedad. El olor característico es el del chocolate, si presenta olores diferentes el grano no es el adecuado para el proceso
+              |Para determinar el porcentaje de granos defectuosos se toma una muestra a la ser, se pesa y se procede a clasificar, por último, se pesan los granos defectuosos y se calcula el porcentaje.
+              br
+              br
+              |% defectuosos = (Peso de granos defectuosos/peso de la muestra) *100
         
           .col-md-6.order-1.order-md-2.mb-4.mb-md-0
             figure

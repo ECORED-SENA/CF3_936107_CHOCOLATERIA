@@ -95,9 +95,9 @@
     
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
       img.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 85px")
-      p.col-md.ps-md-4 Es importante que, al momento de realizar las compras de maquinaria y equipos necesarios para la empresa, estos se compren en establecimientos legales y que cuenten con garantía, de esta manera se asegura que la inversión se realiza con materiales de buena calidad y a la cual se puede acudir en caso de alguna falla o daño ajeno a la manipulación de esta.
+      p.col-md.ps-md-4 Los fabricantes de maquinaria industrial generalmente realizan una capacitación sobre el manejo de sus equipos, es primordial que esta capacitación sea recibida por alguien de la planta que tenga conocimientos previos sobre su funcionamiento o dado el caso bases para comprender el funcionamiento e identificar las alertas en caso de falla de la máquina. Así mismo el capacitado debe transmitir la información a otros colaboradores para que existan varios con la capacidad de operación.
     
-    p.mb-5 Posterior a cada jornada de trabajo es importante que el operador realice la limpieza de la máquina que operó o si existe una brigada de limpieza para dicha actividad, ya que los residuos que quedan en los compartimientos de la máquina pueden afectar las propiedades organolépticas de las futuras producciones, disminuyendo la calidad de los productos. Para la limpieza se deben tener en cuenta las recomendaciones del fabricante en los manuales de operación. 
+    p.mb-5 En caso de que el proveedor no realice la capacitación de manejo de sus equipos es obligación del operador conocer el manual de operación de la maquinaria a usar, de esta manera se reducen los riesgos de daño o afectación por mal manejo.
 
     .bg-left-to-right(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/bg-last-div.svg')})`}"
