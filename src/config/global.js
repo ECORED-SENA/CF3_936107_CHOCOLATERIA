@@ -312,8 +312,8 @@ export default {
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
-        nombre: 'Yenny Ulloa',
-        cargo: 'Validación de contenido',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
+        cargo: 'Diseño y desarrollo de recursos educativos',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

@@ -123,7 +123,7 @@
         .p-0(titulo="Decreto 2078 de 2012")
           p.mb-0 Por el cual se establece la estructura nacional de Vigilancia de Medicamentos y alimentos INVIMA.
         .p-0(titulo="Decreto 1485 de 2008")
-          p.mb-0 or el cual se transforma el Fondo de Estabilización de Precios de Exportación del Cacao en el Fondo de Estabilización de Precios del Cacao
+          p.mb-0 Por el cual se transforma el Fondo de Estabilización de Precios de Exportación del Cacao en el Fondo de Estabilización de Precios del Cacao
         .p-0(titulo="Resolución 1511 de 2011")
           p.mb-0 Por la cual se establece el reglamento técnico sobre los requisitos sanitarios que debe cumplir el chocolate y productos de chocolate para consumo humano, que se procese, envase, almacene, transporte, comercialice, expenda, importe o exporte en el territorio nacional.
         .p-0(titulo="Resolución 1229 de 2013")
