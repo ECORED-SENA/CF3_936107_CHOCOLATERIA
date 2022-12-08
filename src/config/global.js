@@ -311,12 +311,6 @@ export default {
         cargo: 'Corrector de Estilo',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
-      {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
-        cargo: 'Diseño y desarrollo de recursos educativos',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {
@@ -347,6 +341,12 @@ export default {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Revisión de guion audiovisual',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Yenny Patricia Ulloa Villamizar',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

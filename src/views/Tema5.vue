@@ -171,7 +171,7 @@
       img.mx-auto.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-0(src="@/assets/curso/temas/tema5/img-10.png" style="max-width: 505px")
     
     .d-flex.flex-wrap.align-items-start.mb-5
-      img.mb-4.mb-xl-0.col-xl-5(src="@/assets/curso/temas/tema5/img-11.png" style="max-width: 505px")
+      img.mx-auto.mb-4.mb-xl-0.col-xl-5(src="@/assets/curso/temas/tema5/img-11.png" style="max-width: 505px")
       .col-xl-7
         AcordionA.acordeon-edit.w-100(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .p-0(titulo="Bien fermentado")

@@ -65,11 +65,11 @@
     .d-flex.flex-wrap.align-items-center.mb-5.p-4.p-xl-0.position-relative
       img.mx-auto.col-xl-5.mb-4.mb-xl-0.position-relative(src="@/assets/curso/temas/tema4/img-5.png" style="max-width: 505px; z-index: 1;")
       .col-xl-7.ps-xl-4.bg-text-t4
-        p.mb-0.p-4 En el caso del cacao la variación de precio es constante, pero a comparación del café, este se mantiene en un rango de oscilación más bajo. Como se ha mencionado anteriormente esto se debe a diversos factores económicos que hacen fluctuar los precios que a su vez se transmitirán al consumidor final al momento de la adquisición de los productos obtenidos. 
+        p.mb-0.p-4.pe-xl-5 En el caso del cacao la variación de precio es constante, pero a comparación del café, este se mantiene en un rango de oscilación más bajo. Como se ha mencionado anteriormente esto se debe a diversos factores económicos que hacen fluctuar los precios que a su vez se transmitirán al consumidor final al momento de la adquisición de los productos obtenidos. 
           br
           br
           |Para contrarrestar los precios adversos de la caída en el mercado bursátil es primordial que la empresa cuente con bases sólidas en cuanto a la consecución de las materias primas, que generalmente son adquiridas con meses de anterioridad y que en alguna medida puede disminuir los impactos de una subida gradual de los precios de producción.
-    
+      img.d-none.d-lg-flex(src="@/assets/curso/temas/tema4/d-1.svg" style="max-width: 110px; z-index: 1; position: absolute; bottom: -3rem; right: 0;")
     .d-flex.flex-wrap
       .col-xl-6.pe-xl-2
         p.mb-4 Se menciona este aparte principalmente ya que la disminución del precio final es el golpe más duro al productor debido a que en ocasiones no solventa la inversión que se realiza para sacar los productos finales. En el otro caso cuando el precio está por encima de lo esperado, estas se convierten en ganancias ocasionales que no estaban pronosticadas y que generan un crecimiento en los ingresos de manera considerable. En este fenómeno el productor no se ve afectado en cuanto a la comercialización de sus productos, pero el cultivador si ve el impacto en los precios de las materias primas para su cosecha. 
