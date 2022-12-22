@@ -65,7 +65,7 @@
             p #[b(style="color: #FD7F23;") Existen aproximadamente 22 especies de Theobroma, y cerca de 15 son utilizados por su pulpa comestible o semillas.] El cacao es una de las especies más importantes. 
               br
               br
-              |#[em Theobroma grandiflorum] (cupuaçu), #[em Theobroma gileri] (cacao de montaña), T. bicolor (Macambo) y subincanum T. (cacao silvestre) son otras especies utilizadas por su pulpa dulce, comestibles y semillas comestibles
+              |#[em Theobroma grandiflorum] (cupuaçu), #[em Theobroma gileri] (cacao de montaña), T. bicolor (Macambo) y subincanum T. (cacao silvestre) son otras especies utilizadas por su pulpa dulce, comestibles y semillas comestibles.
             img(src="@/assets/curso/temas/tema2/d-1.svg" style="max-width: 111px; position: absolute; top: -2.6rem; right: -2.6rem;")
 
       .position-relative
@@ -172,7 +172,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_3 2.3  Criterios de calidad 
     
-    .d-flex.flex-wrap.align-items-center.mb-5.mb-xl-0
+    .d-flex.flex-wrap.align-items-center.mb-5
       .col-xl-7.order-2.order-xl-1.pe-xl-4
         p Dentro de los criterios de calidad lo principal es su clasificación, la cual se realiza a través de una selección mecánica que utiliza una graduación de hojas de malla de diferentes tamaños en torno a un tambor cilíndrico con rotación helicoidal en el interior para transportar los granos.
         p.p-3(style="background-color: #FED2B2") Durante la clasificación, en primer lugar, las piezas rotas de los granos y fragmentos de conchas se retiran, por un costado se obtienen granos de cacao, pequeños, posteriormente los granos de tamaño medio y finalmente los granos grandes de mayor calidad. 

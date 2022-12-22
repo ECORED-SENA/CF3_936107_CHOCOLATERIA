@@ -26,7 +26,7 @@
     
     .d-flex.align-items-center.mb-4
       img(src="@/assets/curso/temas/tema1/dec-titulo.svg" style="max-width: 45px")
-      h4.ps-2.mt-2.mb-0(style="color: #7D5F54") Maquinaria Industrial
+      h4.ps-2.mt-2.mb-0(style="color: #7D5F54") Maquinaria artesanal
     
     .bg-left-to-right.pb-5(style="background: linear-gradient(180deg, rgba(255,255,255,1) 11%, rgba(246,246,246,1) 11%, rgba(246,246,246,1) 35%, rgba(252,192,45,1) 35%, rgba(252,192,45,1) 67%, rgba(255,255,255,1) 67%);")
       .d-flex.flex-wrap.align-items-start.mb-5

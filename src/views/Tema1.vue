@@ -89,7 +89,7 @@
             .col.mb-3.mb-sm-0
               p.fw-bold #[span(style="color: #FCC02D") Anexo.] Complementación sobre Normatividad Ambiental
             .col-sm-auto
-              a.boton.color-acento-botones.fw-bold(:href="'https://repositorio-sena-edu-co.bdigital.sena.edu.co/bitstream/handle/11404/5241/agroindustria_cacao.pdf?sequence=1&isAllowed=y'" target="_blank")
+              a.boton.color-acento-botones.fw-bold(:href="'https://www.minambiente.gov.co/normativa/'" target="_blank")
                 span.pe-4 Enlace web
                 <svg style="width: 26px" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
                   <g id="Grupo_176308" data-name="Grupo 176308" transform="translate(-1221 -2969)">
@@ -123,7 +123,7 @@
         .p-0(titulo="Decreto 2078 de 2012")
           p.mb-0 Por el cual se establece la estructura nacional de Vigilancia de Medicamentos y alimentos INVIMA.
         .p-0(titulo="Decreto 1485 de 2008")
-          p.mb-0 Por el cual se transforma el Fondo de Estabilización de Precios de Exportación del Cacao en el Fondo de Estabilización de Precios del Cacao
+          p.mb-0 Por el cual se transforma el Fondo de Estabilización de Precios de Exportación del Cacao en el Fondo de Estabilización de Precios del Cacao.
         .p-0(titulo="Resolución 1511 de 2011")
           p.mb-0 Por la cual se establece el reglamento técnico sobre los requisitos sanitarios que debe cumplir el chocolate y productos de chocolate para consumo humano, que se procese, envase, almacene, transporte, comercialice, expenda, importe o exporte en el territorio nacional.
         .p-0(titulo="Resolución 1229 de 2013")
@@ -181,7 +181,7 @@
           .w-100.p-4.tarjeta.tarjeta-edit
             img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 88px")
             h4.text-center Resolución 2646 de 2008
-            p.text-center Por la cual de establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención, y monitoreo permanente de la exposición a factores de riesgo
+            p.text-center Por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención, y monitoreo permanente de la exposición a factores de riesgo
 </template>
 
 <script>

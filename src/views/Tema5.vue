@@ -23,7 +23,7 @@
             p La uniformidad de la muestra debe ser una constante, si no se presenta es debido a que en la selección y clasificación se cometieron inconsistencias. Los granos planos son señal de que el secado no fue el adecuado y puede presentar variaciones de amargura o acidez
               br
               br
-              |El color debe ser uniforme parecido a la tierra colorada, las presencias de colores oscuros son indicador de que el beneficio no fue el adecuado. El grano debe romperse al apretarse, si esto no ocurre es indicador que el grano tiene humedad. El olor característico es el del chocolate, si presenta olores diferentes el grano no es el adecuado para el proceso
+              |El color debe ser uniforme parecido a la tierra colorada, las presencias de colores oscuros son indicador de que el beneficio no fue el adecuado. El grano debe romperse al apretarse, si esto no ocurre es indicador que el grano tiene humedad. El olor característico es el del chocolate, si presenta olores diferentes el grano no es el adecuado para el proceso.
         
           .col-md-6.order-1.order-md-2.mb-4.mb-md-0
             figure
@@ -56,7 +56,7 @@
                 <svg style="max-width: 12px; width: 100%; margin-top: .4rem; margin-right: .5rem;" xmlns="http://www.w3.org/2000/svg" width="6.6" height="11.544" viewBox="0 0 6.6 11.544">
                   <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M15.857,11.966,11.489,7.6a.821.821,0,0,1,0-1.165.832.832,0,0,1,1.169,0l4.949,4.946a.823.823,0,0,1,.024,1.138l-4.97,4.98a.825.825,0,0,1-1.169-1.165Z" transform="translate(-11.247 -6.196)" fill="#fd7f23"/>
                 </svg>
-                | En las zonas húmedas se recomienda secar, limpiar clasificar y entregar al comprador lo más pronto posible para su transformación rápida.
+                | En las zonas húmedas se recomienda secar, limpiar, clasificar y entregar al comprador lo más pronto posible para su transformación rápida.
               li 
                 <svg style="max-width: 12px; width: 100%; margin-top: .4rem; margin-right: .5rem;" xmlns="http://www.w3.org/2000/svg" width="6.6" height="11.544" viewBox="0 0 6.6 11.544">
                   <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M15.857,11.966,11.489,7.6a.821.821,0,0,1,0-1.165.832.832,0,0,1,1.169,0l4.949,4.946a.823.823,0,0,1,.024,1.138l-4.97,4.98a.825.825,0,0,1-1.169-1.165Z" transform="translate(-11.247 -6.196)" fill="#fd7f23"/>
@@ -72,7 +72,7 @@
               br
               |Con la ayuda de un mortero se muelen 10 g de cacao las partículas no deben exceder los 5 mm. Durante el proceso se debe evitar calentar la muestra ya que se puede convertir en una pasta. 
               br
-              |Al terminar la molienda se debe colocar el cacao molido en un desecador ya que el cacao absorbe la humedad del ambiente para que el resultado sea significativo es necesario realizar al menos dos veces la determinación. Los equipos normalmente utilizados son el medidor de humedad de granos y la balanza térmica
+              |Al terminar la molienda se debe colocar el cacao molido en un desecador ya que el cacao absorbe la humedad del ambiente para que el resultado sea significativo es necesario realizar al menos dos veces la determinación. Los equipos normalmente utilizados son el medidor de humedad de granos y la balanza térmica.
         
           .col-md-6.order-1.order-md-2.mb-4.mb-md-0
             figure
@@ -118,7 +118,7 @@
             p Los granos considerados defectuosos son aquellos que presentan formas planas, pequeñas, quebrados, gemelos, germinados, pasa y basura.
               br
               br
-              |Para determinar el porcentaje de granos defectuosos se toma una muestra a la ser, se pesa y se procede a clasificar, por último, se pesan los granos defectuosos y se calcula el porcentaje.
+              |Para determinar el porcentaje de granos defectuosos se toma una muestra azar, se pesa y se procede a clasificar, por último, se pesan los granos defectuosos y se calcula el porcentaje.
               br
               br
               |% defectuosos = (Peso de granos defectuosos/peso de la muestra) *100
@@ -225,7 +225,7 @@
                 | Moho visible a simple vista (diversos colores). Sabor indeseable.
               li 
                 span(style="background-color: #FD7F23; width: 12px; height: 12px; min-width: 12px; padding-right: .5rem; border-radius: 50%; margin-top: .4rem;")
-                | #[b Causa:] geminación, daño mecánico o por insectos almacenado con alta humedad y secado deficiente.
+                | #[b.pe-2 Causa:] geminación, daño mecánico o por insectos almacenado con alta humedad y secado deficiente.
           .p-0(titulo="Pizarroso")
             ul.lista-ul--color
               li 

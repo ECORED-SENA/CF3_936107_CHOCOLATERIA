@@ -12,7 +12,7 @@
       .col-xl-7.ps-xl-4
         p El cacao desde su descubrimiento por parte de las antiguas tribus Olmecas en México ha sido usado con diferentes fines, desde sus beneficios para la salud hasta de unidad monetaria y de acuerdo con la FAO, 100 gramos de cacao equivalen a un Zontli (400 unidades) y 8000 unidades equivalen a un Xiquipilli.
         p.p-3(style="background-color: #F6F6F6;") Así mismo a lo largo de la colonia #[b(style="color: #FD7F23") se realizan los llamados trueques en los que las diferentes comunidades le proporcionaban un valor monetario al cacao] para de esta manera realizar su intercambio de mercancías. 
-        p En la industria del cacao se manejan unidades de peso y volumen de acuerdo con el sistema de medidas que se empleen en el país de referencia. Sin embargo, la mayor parte del proceso de producción realiza mediciones de percepción de acuerdo con las características del grano, como su color, olor, sabor entre otras, que en definitiva son las que van de la mano con la calidad del producto.
+        p En la industria del cacao se manejan unidades de peso y volumen de acuerdo con el sistema de medidas que se empleen en el país de referencia. Sin embargo, la mayor parte del proceso de producción realiza mediciones de percepción de acuerdo con las características del grano, como su color, olor, sabor, entre otras, que en definitiva son las que van de la mano con la calidad del producto.
     
     .d-flex.align-items-center.mb-5.position-relative
       img(src="@/assets/curso/temas/tema1/dec-titulo.svg" style="max-width: 45px")
@@ -60,7 +60,7 @@
     
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
       img.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 85px")
-      p.col-md.ps-md-4 los mercados de los productos agrícolas y los subproductos de estos están en constante cambio debido a la oferta y la demanda y a factores externos como el precio de los insumos agrícolas, la mano de obra, condiciones climáticas, catástrofes entre muchos más, los cuales afectan el precio y por ende la cantidad de producto que se desea comercializar.
+      p.col-md.ps-md-4 los mercados de los productos agrícolas y los subproductos de estos están en constante cambio debido a la oferta y la demanda y a factores externos como el precio de los insumos agrícolas, la mano de obra, condiciones climáticas, catástrofes, entre muchos más, los cuales afectan el precio y por ende la cantidad de producto que se desea comercializar.
     
     .d-flex.flex-wrap.align-items-center.mb-5.p-4.p-xl-0.position-relative
       img.mx-auto.col-xl-5.mb-4.mb-xl-0.position-relative(src="@/assets/curso/temas/tema4/img-5.png" style="max-width: 505px; z-index: 1;")
@@ -83,7 +83,7 @@
           span Variación de los precios semanales del cacao primer trimestre del 2022
         .w-100(style="overflow: auto;")
           table.tabla-edit-t4
-            caption #[b Nota.] #[a(href="https://cutt.ly/5NRIJcX" target="_blank") https://cutt.ly/5NRIJcX]
+            caption #[b Nota.] #[a(href="https://agronet.gov.co/Noticias/Paginas/Precio-de-referencia-semanal-de-compra-de-cacao---Fuente-Industria.aspx" target="_blank") https://agronet.gov.co/Noticias/Paginas/Precio-de-referencia-semanal-de-compra-de-cacao---Fuente-Industria.aspx]
             thead
               tr
                 th Fecha

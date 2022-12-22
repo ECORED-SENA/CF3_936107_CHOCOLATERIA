@@ -69,13 +69,13 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '2.2',
             titulo: 'Beneficio',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '2.3',
             titulo: 'Criterios de calidad',
             hash: 't_2_3',
           },
