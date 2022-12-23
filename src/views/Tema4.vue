@@ -60,7 +60,7 @@
     
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
       img.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 85px")
-      p.col-md.ps-md-4 los mercados de los productos agrícolas y los subproductos de estos están en constante cambio debido a la oferta y la demanda y a factores externos como el precio de los insumos agrícolas, la mano de obra, condiciones climáticas, catástrofes, entre muchos más, los cuales afectan el precio y por ende la cantidad de producto que se desea comercializar.
+      p.col-md.ps-md-4 Los mercados de los productos agrícolas y los subproductos de estos están en constante cambio debido a la oferta y la demanda y a factores externos como el precio de los insumos agrícolas, la mano de obra, condiciones climáticas, catástrofes, entre muchos más, los cuales afectan el precio y por ende la cantidad de producto que se desea comercializar.
     
     .d-flex.flex-wrap.align-items-center.mb-5.p-4.p-xl-0.position-relative
       img.mx-auto.col-xl-5.mb-4.mb-xl-0.position-relative(src="@/assets/curso/temas/tema4/img-5.png" style="max-width: 505px; z-index: 1;")

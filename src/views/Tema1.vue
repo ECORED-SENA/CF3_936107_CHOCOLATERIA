@@ -12,7 +12,7 @@
         p.p-4.px-xl-5.mb-0.fw-bold(style="background-color: #FFF6DF") El marco normativo en Colombia es de amplio espectro en cuanto a la reglamentación del agro, como reza en el #[b artículo 65 de la constitución de 1991] la cual cita “La producción de alimentos gozará de la especial protección del Estado. Para tal efecto, #[span(style="color: #FD7F23") se otorgará prioridad al desarrollo integral de las actividades agrícolas, pecuarias, forestales y agroindustriales], así como también a la construcción de obras de infraestructura física y adecuación de tierras. De igual manera, el Estado promoverá la investigación y la transferencia de tecnología para la producción de alimentos y materias prima de origen agropecuario, con el propósito de incrementar la productividad”
       img.col-xl-5.mb-4.mb-xl-0.order-1.order-xl-2.mx-auto(src="@/assets/curso/temas/tema1/img-1.png" style="max-width: 505px")
     
-    p.mb-5 Las empresas con desarrollo agrícola e industrial deben tener en cuenta la legislación aplicable tanto en el campo ambiental, sanitario, seguridad y salud en el trabajo, exportaciones, y los regímenes de variabilidad de precios para estar debidamente preparados para la producción.}
+    p.mb-5 Las empresas con desarrollo agrícola e industrial deben tener en cuenta la legislación aplicable tanto en el campo ambiental, sanitario, seguridad y salud en el trabajo, exportaciones, y los regímenes de variabilidad de precios para estar debidamente preparados para la producción.
 
     .bg-left-to-right.py-5.position-relative.mb-5(style="background-color: #FFECDE")
       .d-flex.align-items-center.mb-4
